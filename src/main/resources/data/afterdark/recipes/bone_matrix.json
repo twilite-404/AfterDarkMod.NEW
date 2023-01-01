@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "tutorialmod:bone_shard"
+      "item": "afterdark:bone_shard"
     }
   },
   "result": {
-    "item": "tutorialmod:bone_matrix"
+    "item": "afterdark:bone_matrix"
   }
 }
