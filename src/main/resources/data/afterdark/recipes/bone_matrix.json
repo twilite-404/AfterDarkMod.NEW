@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:bone_shard"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:bone_matrix"
+  }
+}
