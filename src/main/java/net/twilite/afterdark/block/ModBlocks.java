@@ -25,7 +25,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> BONE_MATRIX = registerBlock("bone_matrix",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(1f)
-                    .sound(SoundType.NETHERRACK)
+                    .sound(SoundType.BONE_BLOCK)
                     .explosionResistance(0f)
                     .requiresCorrectToolForDrops()
                     .color(MaterialColor.TERRACOTTA_WHITE))
